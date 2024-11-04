@@ -1,10 +1,15 @@
-# Getting Started with Create React App
+# React Todo List App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+A simple and intuitive Todo List application. This app allows users to manage their tasks efficiently, featuring functionalities like adding, editing, and deleting todos.
 
-## Available Scripts
+## Features
 
-In the project directory, you can run:
+- **Add Todo**: Easily add new tasks to your list.
+- **Edit Todo**: Modify existing tasks with ease.
+- **Delete Todo**: Remove completed or unnecessary tasks.
+- **Persistent Storage**: Todos are stored locally using AsyncStorage.
+- **User-friendly Interface**: Clean and minimal design for better usability.
+- **Cross-Platform**: Works on both iOS and Android devices.
 
 ### `npm start`
 
